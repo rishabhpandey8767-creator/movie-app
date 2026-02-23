@@ -1,5 +1,4 @@
-# 🎬 Movie App (Netflix UI Clone)
-
+# 🎬 Movie App 
 A modern movie streaming UI inspired by Netflix, built using **React + Vite**.  
 This project focuses on clean UI, component-based architecture, and fast performance.
 
